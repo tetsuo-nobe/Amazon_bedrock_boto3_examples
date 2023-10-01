@@ -1,15 +1,12 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
 # Amazon_bedrock_boto3_examples
+
+[amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop/tree/main)
+---
+
+* bedrock_image.py
+  - [画像生成のサンプル](https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/05_Image/Bedrock%20Stable%20Diffusion%20XL.ipynb)
+* bedrock_modelId.py
+* - モデル Id の一覧を表示
+* bedrock_text.py
+* - テキスト生成
+
