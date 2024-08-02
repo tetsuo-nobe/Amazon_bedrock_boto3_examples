@@ -1,6 +1,6 @@
 # Amazon_bedrock_boto3_examples
 
-[amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop/tree/main)
+[amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop/tree/main) をベースにしたサンプル
 ---
 
 * bedrock_image
